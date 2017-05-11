@@ -1,0 +1,12 @@
+body{font-size:12px;font-family:Arial;color:grey;}
+p{line-height:2em;}
+a{color:#727272;text-decoration: none;}
+a:hover{text-decoration:underline}
+.w4{font-size:14px;color:#b9f605;font-weight:bold}
+.w2{color:white}
+.w2:hover{color:#b9f605;text-decoration:none;}
+.w1:hover{color:#b9f605;text-decoration:none;}
+.w1{color:#fdb306}
+#first{
+	background-repeat:no-repeat;background-position:center;background-size:600px 900px;
+	}
