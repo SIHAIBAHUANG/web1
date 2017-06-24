@@ -1,0 +1,165 @@
+body{
+	padding:0px;
+	font-size:12px;
+	color:#522a06;
+	font-family: '宋体';
+}
+.mybody{
+	width:1000px;
+	height:900px;
+	background-repeat: no-repeat;
+	background-position: center;
+	padding-top:40px;
+	margin-left:180px;
+	border: double;
+}
+#header{
+	width:1000px;
+	height:120px;
+}
+#banner{
+	width:1050px;
+	height:160px;
+	padding-top:1px;
+}
+.biaoti{
+	width:770px;
+	height:39px;
+	float:right;
+	}
+.ul li{
+	padding:0px;
+	font-size:70px;
+	font-family: '楷体';
+	float:right;
+	color:#000000;
+	position:relative;
+	right:190px;
+	bottom:10px;	
+	list-style-type: none;
+}
+.ul li a{
+	text-decoration: none;
+	color:#000000;
+	font-weight: bolder;
+}
+.ul li a:hover{
+	color:#F5FFFA;
+}
+#nav{
+	border: double;
+	width:995px;
+	height:40px;
+}
+.daohang{
+	width:770px;
+	height:39px;
+	float:left;
+	}
+.img1{
+	position:relative;
+	top:1px;
+	left:65px; 
+	width:150px;
+	height:150px;
+}
+.ul1 li{
+	float:left;
+	margin:4px;
+	color:black;
+	position:relative;
+	left:25px;
+	bottom:4px;
+	list-style: none;
+}
+.ul1 li a{
+	color:#191970;
+	text-decoration: none;
+	font-weight: bolder;
+}
+.ul1 li a:hover{
+	color:#f9f603;
+	text-decoration: underline;
+}
+.in1{
+	width:140px;
+	height:21px;
+	background-color: #f8f5ee;
+	position:relative;
+	top:5px;
+}
+.in2{
+	width:44px;
+	height:21px;
+	background-color: #000;
+	color:#fff;
+	position:relative;
+	top:6.5px;
+	right:2px;
+}
+#jianjie{
+	width:993px;
+	height:310px;
+	font-size:20px;
+	color:#FFFFF0;
+	font-family: '楷体';
+}
+.jian1{
+	float: left;
+	border: double;
+	border-color:#A9A9A9;
+	width:340px;
+	height:300px;
+	left:2px;
+	top:2px;
+	position: relative;
+}
+.img4{
+	border: double;
+	border-color:#A9A9A9;
+	position: relative;
+	width:240px;
+	height:300px;
+    left:2px;
+	top:2px;
+}
+#video{
+	width:1000px;
+	height:650px;
+	margin-left:100px;
+}
+.img3{
+	position: relative;
+	width:1000px;
+	height:2px;
+	opacity: 5.0;
+}
+#footer1{
+	width:1000px;
+	height:2px;
+	position:relative;
+	bottom:5px;
+}
+#footer{
+	width:1000px;
+	height:2px;
+	position:relative;
+	bottom:5px;
+	padding-top:720px;
+}
+.p1{
+	width:370px;
+	height:25px;
+	position:relative;
+	left:320px;
+	bottom: 1px;
+}
+.p2{
+	width:260px;
+	height:15px;
+	position:relative;
+	left:350px;
+	bottom:1px;
+}
+
+
