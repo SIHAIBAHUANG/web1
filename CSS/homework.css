@@ -4,6 +4,17 @@ body{
 	color:#522a06;
 	font-family: '宋体';
 }
+#area{
+	width:160px;
+	height:900px;
+	background-repeat: no-repeat;
+	background-position: center;
+	padding-top:40px;
+	margin-left:10px;
+	float:left;
+	border: double;
+	background-image:url(../home/wenli6.jpg); 
+}
 .mybody{
 	width:1000px;
 	height:900px;
@@ -55,7 +66,7 @@ body{
 	width:770px;
 	height:39px;
 	float:left;
-	}
+}
 .img1{
 	position:relative;
 	top:1px;
@@ -98,6 +109,7 @@ body{
 	right:2px;
 }
 #jianjie{
+	float: left;
 	width:993px;
 	height:310px;
 	font-size:20px;
@@ -115,13 +127,117 @@ body{
 	position: relative;
 }
 .img4{
+	float: left;
 	border: double;
 	border-color:#A9A9A9;
 	position: relative;
-	width:240px;
+	width:290px;
 	height:300px;
     left:2px;
 	top:2px;
+}
+.jian2{
+	float: left;
+	border: double;
+	border-color:#A9A9A9;
+	color:#9ACD32;
+	width:345px;
+	height:300px;
+	left:2px;
+	top:2px;
+	position: relative;
+}
+.img5{
+	float: left;
+	border: double;
+	border-color:#A9A9A9;
+	position: relative;
+	width:400px;
+	height:315px;
+    left:2px;
+	top:2px;
+}
+.duixun{
+	float: left;
+	border: double;
+	border-color:#A9A9A9;
+	font-size:35px;
+	width:175px;
+	height:315px;
+	left:2px;
+	top:2px;
+	position: relative;
+}
+#rongyu{
+	float: left;
+	border: double;
+	border-color:#A9A9A9;
+	font-size:20px;
+	width:990px;
+	height:625px;
+	left:2px;
+	top:2px;
+	position: relative;
+}
+.rong{
+	float: left;
+	border-color:#A9A9A9;
+	font-size:32px;
+	width:450px;
+	height:500px;
+	left:2px;
+	top:2px;
+	position: relative;
+}
+.dan{
+	float: left;
+	border-color:#A9A9A9;
+	font-size:32px;
+	width:520px;
+	height:500px;
+	left:2px;
+	top:2px;
+	position: relative;
+}
+.shi{
+    margin:3px;
+    border:1px solid #bebebe;
+    height:auto;
+    width:auto;
+    float:left;
+    text-align:center;
+    opacity: 0.5;
+}
+.shi:hover{
+    opacity: 1.0;
+}
+.shi img{
+    display:inline;
+    margin:3px;
+    border:1px solid #bebebe;
+    width: 181px;
+    height: 105px;
+}
+.shi a:hover img{
+    border:1px solid #333333;
+}
+.ul3 li{
+	padding:0px;
+	font-size:20px;
+	font-family: '楷体';
+	float:left;
+	color:#FFF8DC;
+	bottom:10px;
+	list-style-type:square;
+}
+.ul3 li a{
+	text-align: left;
+	text-decoration:none;
+	color:#FFF8DC;
+	font-weight: bolder;
+}
+.ul3 li a:hover{
+	color:#F5FFFA;
 }
 #video{
 	width:1000px;
@@ -132,7 +248,7 @@ body{
 	position: relative;
 	width:1000px;
 	height:2px;
-	opacity: 5.0;
+	opacity:5.0;
 }
 #footer1{
 	width:1000px;
